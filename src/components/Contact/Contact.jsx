@@ -47,7 +47,7 @@ const Contact = () => {
                     <article className="contact__option" data-aos="fade-up" data-aos-anchor=".contact__container" data-aos-duration='1300'>
                         <BsLinkedin className='contact__option-icon' />
                         <h4>Linkedin</h4>
-                        <h5>Erifeoluwa Femi-Ladiran</h5>
+                        <h5>Anastasiia Markova</h5>
                         <a href="https://www.linkedin.com/in/anastasiia-markova200/" target='_blank' rel="noreferrer">Let's connect</a>
                     </article>
 

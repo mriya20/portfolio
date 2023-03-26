@@ -4,17 +4,15 @@ import { FaAward, FaTelegramPlane } from 'react-icons/fa';
 import { FiUsers } from 'react-icons/fi';
 import { BsClipboardCheck } from 'react-icons/bs';
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { FontAwesomeIcon } from 'react-icons/react-fontawesome';
 
 // Brand Svg icons
 import {
     faNode,
     faCss3,
-    faGitAlt,
     faHtml5,
-    faJsSquare,
     faReact
-} from '@fortawesome/free-brands-svg-icons';
+} from '@fortAwesome/free-brands-svg-icons';
 
 
 
@@ -38,12 +36,6 @@ const About = () => {
                         </div>
                         <div className="face4">
                             <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
-                        </div>
-                        <div className="face5">
-                            <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
-                        </div>
-                        <div className="face6">
-                            <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
                         </div>
                     </div>
                 </div>
