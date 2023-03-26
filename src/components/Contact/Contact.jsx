@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import emailjs from 'emailjs-com';
+import emailjs from '@emailjs/browser';
 
 import './contact.css'
 import { MdOutlineEmail } from 'react-icons/md'
@@ -55,7 +55,7 @@ const Contact = () => {
                     <article className="contact__option" data-aos="fade-up" data-aos-anchor=".contact__container" data-aos-duration='1000'>
                         <BsInstagram className='contact__option-icon' />
                         <h4>Instagram</h4>
-                        <h5>for_timi</h5>
+                        <h5>dans_ma_vision</h5>
                         <a href="https://ig.me/m/dans_ma_vision" target='_blank' rel="noreferrer">Send a DM</a>
                     </article>
 

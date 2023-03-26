@@ -4,7 +4,7 @@ import { FaAward, FaTelegramPlane } from 'react-icons/fa';
 import { FiUsers } from 'react-icons/fi';
 import { BsClipboardCheck } from 'react-icons/bs';
 
-import { FontAwesomeIcon } from 'react-icons/react-fontawesome';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 // Brand Svg icons
 import {
@@ -12,7 +12,7 @@ import {
     faCss3,
     faHtml5,
     faReact
-} from '@fortAwesome/free-brands-svg-icons';
+} from '@fortawesome/free-brands-svg-icons';
 
 
 
@@ -66,10 +66,10 @@ const About = () => {
                     </div>
 
                     <p data-aos="fade-up" data-aos-anchor=".about__content" data-aos-duration="1000">
-                        Hello, There. I'm Anastasiia Markova but everyone calls me Timi. <br />
+                        Hello, There. I'm Anastasiia Markova. <br />
                         I am a Full-Stack software Developer that specializes in building creative and intuitive full stack web applications.
                         <br />
-                        A photographer, tennis lover, and outdoor activity enthusiast. interested in building full stack applications and working on ambitious projects and positive people. Let's build something useful together
+                        A photographer, tennis lover, and outdoor activity enthusiast. interested in building full stack applications and working on ambitious projects and positive people. Let's build something useful together.
                     </p>
 
                     <a href='#contact' className='btn btn-primary' data-aos="fade-up" data-aos-anchor=".about__content" data-aos-duration="1200">Let's chat <FaTelegramPlane /></a>
