@@ -1,3 +1,5 @@
+<h1 align="center">React Portfolio</h1>
+
 ## Description
 Deployed React portfolio of work samples, about me, contact. single-page application portfolio for a full stack web developer
 
