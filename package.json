@@ -1,8 +1,8 @@
 {
   "name": "react-demo",
   "version": "0.1.0",
-  "homepage": "http://mriya20.github.io/portfolio",
   "private": true,
+  "homepage": "https://mriya20.github.io/portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
