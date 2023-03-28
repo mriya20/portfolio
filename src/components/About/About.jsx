@@ -69,7 +69,7 @@ const About = () => {
                         Hello, There. I'm Anastasiia Markova. <br />
                         I am a Full-Stack software Developer that specializes in building creative and intuitive full stack web applications.
                         <br />
-                        A photographer/videographer, tennis lover, and outdoor activity enthusiast. interested in building full stack applications and working on ambitious projects and positive people. Let's build something useful together.
+                        A photographer/videographer, tennis lover, and outdoor activity enthusiast. Interested in building full stack applications and working on ambitious projects and positive people. Let's build something useful together.
                     </p>
 
                     <a href='#contact' className='btn btn-primary' data-aos="fade-up" data-aos-anchor=".about__content" data-aos-duration="1200">Let's chat <FaTelegramPlane /></a>
