@@ -10,7 +10,7 @@ Deployed React portfolio of work samples, about me, contact. single-page applica
 - [Contributions](#contribution)
 - [Licenses](#licenses)
 - [Questions](#questions)
-<!-- - [website link](https://for-timi.github.io/react-portfolio/) // Checkout the deployed website  -->
+- [website link](https://mriya20.github.io/portfolio/) // Checkout the deployed website 
     
         
 ## Installation
@@ -25,6 +25,9 @@ To set up and utilise this project. Take the following steps.
 ## Usage
 A responsive, single page application for developers to showcase their skills
 
+## Screenshot
+- ![image](src/assets/reactportfolio.png)
+
 
 ## Licenses
 ### MIT license
@@ -32,10 +35,15 @@ A responsive, single page application for developers to showcase their skills
 
 
 ## website
-<!-- https://for-timi.github.io/react-portfolio/ -->
+https://mriya20.github.io/portfolio/
 
 ## Contribution
 Made with ❤️ by Anastasiia
 
 ## questions
-For additional questions contact me via email on [femiladiranerife24@gmail.com](mailto:anastasia19markova@gmail.com) or [view some other projects](https://github.com/mriya20/).
+If you have any questions about the project you can contact me via the links below
+   
+* 📧 [Email](mailto:anastasia19markova@gmail.com)
+
+   
+* 💻 [GitHub](https://github.com/mriya20)
