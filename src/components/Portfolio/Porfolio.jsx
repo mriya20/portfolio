@@ -26,7 +26,7 @@ const Portfolio = () => {
             toolsUsed: ['NodeJs', 'JQuery', 'Firebase', 'Day.js', 'Bootstrap', 'OpenWeather', 'WorldTime']
         },
         {
-            name: "Runbuddy",
+            name: "run-buddy",
             deployedLink: "https://mriya20.github.io/run-buddy/",
             image: require('../../assets/runbuddy.png'),
             fadeDuration: '1200',
