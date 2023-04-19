@@ -26,12 +26,12 @@ const Portfolio = () => {
             toolsUsed: ['NodeJs', 'JQuery', 'Firebase', 'Day.js', 'Bootstrap', 'OpenWeather', 'WorldTime']
         },
         {
-            name: "FiWiz",
-            deployedLink: "https://finwiz.herokuapp.com/",
-            image: require('../../assets/FinWiz.png'),
+            name: "run-buddy",
+            deployedLink: "https://mriya20.github.io/run-buddy/",
+            image: require('../../assets/runbuddy.png'),
             fadeDuration: '1200',
-            description: "FinWiz is a web-based factoring software designed specifically for transportation companies to help them manage their cash flow more efficiently. With FinWiz, transportation companies can easily convert their accounts receivable into immediate cash, enabling them to meet their daily expenses, pay their drivers and vendors, and grow their business. The software streamlines the factoring process, allowing businesses to upload their invoices, track their payments, and manage their cash flow in real-time.",
-            toolsUsed: ['Node.js', 'React.js, Express.js, MongoDB, Regex, GraphQl, JSON Web Tokes, API, Stripe']
+            description: "A website that offers fitness training services.",
+            toolsUsed: ['HTML', 'CSS']
         },
 
 
