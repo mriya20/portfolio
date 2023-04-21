@@ -33,6 +33,14 @@ const Portfolio = () => {
             description: "A website that offers fitness training services.",
             toolsUsed: ['HTML', 'CSS']
         },
+        {
+            name: "finwiz",
+            deployedLink: "https://github.com/larigens/finwiz",
+            image: require('../../assets/FinWiz.png'),
+            fadeDuration: '1200',
+            description: "FinWiz is a web-based factoring software designed specifically for transportation companies to help them manage their cash flow more efficiently. ",
+            toolsUsed: ['Node.js', 'Express.js', 'React', 'API', 'MongoDB', 'Regex', 'GraphQL', 'JSON Web Tokens', 'Stripe']
+        },
 
 
 
